@@ -6,7 +6,7 @@ Bu loyiha — filmlar haqida ma’lumot beruvchi oddiy va zamonaviy **Movie Webs
 Loyihada quyidagi texnologiyalardan foydalanilgan:
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)  
+- JavaScript  
 
 ## ✨ Funksiyalar
 - 🎥 Filmlar ro‘yxatini ko‘rsatish  
