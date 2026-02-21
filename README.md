@@ -13,3 +13,6 @@ Loyihada quyidagi texnologiyalardan foydalanilgan:
 - 🔍 Film nomi bo‘yicha qidiruv  
 - 📝 Film haqida qisqacha ma’lumot  
 - 📱 Responsive dizayn (mobil va desktop uchun mos)
+
+## 👁️‍🗨️ Demo
+-- https://movie-tengsizdev.netlify.app/
