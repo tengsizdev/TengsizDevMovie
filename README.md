@@ -15,4 +15,4 @@ Loyihada quyidagi texnologiyalardan foydalanilgan:
 - 📱 Responsive dizayn (mobil va desktop uchun mos)
 
 ## 👁️‍🗨️ Demo
--- https://movie-tengsizdev.netlify.app/
+- https://movie-tengsizdev.netlify.app/
